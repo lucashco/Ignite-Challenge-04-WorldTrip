@@ -1,0 +1,7 @@
+.bullets {
+  display: inline-block;
+  width: 16px;
+  margin: 0 0.55rem;
+  height: 16px;
+  border-radius: 50%;
+}
